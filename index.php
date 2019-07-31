@@ -18,5 +18,9 @@
 <article>
  <p1> she is a girl when in court she act swagg</p1>
  </article>
+ <footer>
+  <p>Posted by: Alita </p>
+  <p>Contact information: <a href="contact number: 09123456789">email add: alita.sanford@gmail.com</a>.</p>
+</footer>
 </body>
 </html>
